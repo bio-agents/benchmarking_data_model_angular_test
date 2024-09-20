@@ -1,7 +1,3 @@
-{
-	"model": {
-	},
-	"schema": {
-		"$ref": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/2.0/Reference"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:515a343ac3753123a80002e0123f70a55ab0365d5b608a0ed7af0f383049f2a6
+size 120

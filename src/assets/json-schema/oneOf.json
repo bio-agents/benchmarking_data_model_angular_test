@@ -1,32 +1,3 @@
-{
-  "schema": {
-    "type": "object",
-    "oneOf": [
-      {
-        "title": "Option 1",
-        "properties": {
-          "lorem": {
-            "title": "lorem",
-            "type": "string"
-          }
-        },
-        "required": [
-          "lorem"
-        ]
-      },
-      {
-        "title": "Option 2",
-        "properties": {
-          "ipsum": {
-            "title": "ipsum",
-            "type": "string"
-          }
-        },
-        "required": [
-          "ipsum"
-        ]
-      }
-    ]
-  },
-  "model": {}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:85315043bc848bc9a35b827c12210466b0bb7294e07d96e19b5966e4f66de164
+size 555

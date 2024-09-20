@@ -1,7 +1,3 @@
-{
-	"model": {
-	},
-	"schema": {
-		"$ref": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/2.0/TestAction"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2e15b55b686eb500e7967f7fff4d2e3866514d7033ce1aadf4db625f57404c4
+size 121

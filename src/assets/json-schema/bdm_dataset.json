@@ -1,7 +1,3 @@
-{
-	"model": {
-	},
-	"schema": {
-		"$ref": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/2.0/Dataset"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:42b823f3856e2960ef38333a3cc9315dea689db7db5bd3850918608530663be2
+size 118

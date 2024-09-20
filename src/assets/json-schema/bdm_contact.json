@@ -1,7 +1,3 @@
-{
-	"model": {
-	},
-	"schema": {
-		"$ref": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/2.0/Contact"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:4780bb28aa2cf9c1881dfcb8b5da3b3cebad812448f4399d49ac7413af76e1e8
+size 118

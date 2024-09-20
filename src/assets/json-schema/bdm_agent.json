@@ -1,7 +1,3 @@
-{
-	"model": {
-	},
-	"schema": {
-		"$ref": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/2.0/Agent"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:5822d94e4cacfca7eecd9b73aa230206bff928a797b2aefc3344590d47f25227
+size 116

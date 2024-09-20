@@ -1,7 +1,3 @@
-{
-	"model": {
-	},
-	"schema": {
-		"$ref": "https://www.iechor-europe.org/excelerate/WP2/json-schemas/2.0/BenchmarkingEvent"
-	}
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:76a163b756dd94c31b2796b0cbb261cbf31d66a49d65ef431baa1a20bb326483
+size 128

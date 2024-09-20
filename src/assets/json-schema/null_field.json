@@ -1,25 +1,3 @@
-{
-  "schema": {
-    "title": "Null field example",
-    "description": "A short form with a null field",
-    "type": "object",
-    "required": [
-      "firstName"
-    ],
-    "properties": {
-      "helpText": {
-        "title": "A null field",
-        "description": "Null fields like this are great for adding extra information",
-        "type": "null"
-      },
-      "firstName": {
-        "type": "string",
-        "title": "A regular string field",
-        "default": "Chuck"
-      }
-    }
-  },
-  "model": {
-    "firstName": "Chuck"
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5db16cbc515fa63c5e8db7d93ec1ccfd9ac2eb496b0bb9cbc5ad94ff65b2728
+size 564
